@@ -28,6 +28,7 @@ Add the directive data- attribute on your text or input element. The direction o
 
 ### Examples
 
+English:
 ```html
 <input type="text" value="Hello World!" data-ls-text-direction />
 ```
@@ -37,6 +38,7 @@ Result:
 <input type="text" value="Hello World!" style="direction: ltr; text-align: left;">
 ```
 
+Hebrew:
 ```html
 <input type="text" value="שלום עולם!" data-ls-text-direction />
 ```
