@@ -26,7 +26,7 @@ Install with CDN:
 
 Add the directive data- attribute on your text or input element. The direction of the text will be decided by the first non-special character.
 
-### Example English
+### Example with English
 
 ```html
 <input type="text" value="Hello World!" data-ls-text-direction />
@@ -37,7 +37,7 @@ Result:
 <input type="text" value="Hello World!" style="direction: ltr; text-align: left;">
 ```
 
-### Example Hebrew
+### Example with Hebrew
 ```html
 <input type="text" value="שלום עולם!" data-ls-text-direction />
 ```
