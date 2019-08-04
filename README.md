@@ -5,7 +5,7 @@
 [![Build Status](https://travis-ci.org/litespeed-js/ls-view-text-direction.svg?branch=master)](https://travis-ci.org/litespeed-js/ls-view-text-direction)
 [![Chat With Us](https://img.shields.io/gitter/room/litespeed-js/community.svg)](https://gitter.im/litespeed-js/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
-Litespeed.js view component that adds RTL or LTR your your text or input element according to their language
+Litespeed.js view component that adds RTL or LTR direction to your your text or input elements according to their language.
 
 ## Installation
 
